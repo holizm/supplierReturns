@@ -1,0 +1,17 @@
+{
+    "supplierReturnsAcceptedQuantity": "Accepted quantity",
+    "supplierReturnsCondition": "Condition",
+    "supplierReturnsDescription": "Description",
+    "supplierReturnsItem": "Item",
+    "supplierReturnsItems": "Returned items",
+    "supplierReturnsNumber": "Number",
+    "supplierReturnsPurchaseOrder": "Purchase order",
+    "supplierReturnsQuantity": "Quantity",
+    "supplierReturnsReason": "Return reason",
+    "supplierReturnsRequestDate": "Request date",
+    "supplierReturnsReturn": "Supplier return",
+    "supplierReturnsReturns": "Supplier returns",
+    "supplierReturnsState": "State",
+    "supplierReturnsSupplier": "Supplier",
+    "supplierReturnsSupplierReturns": "Supplier returns"
+}

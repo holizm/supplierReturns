@@ -1,0 +1,36 @@
+supplierReturnReason
+    title
+    code
+    description optional
+    unique code
+supplierReturn
+    number
+    supplier
+    purchaseOrder optional
+    goodsReceipt optional
+    requestDate
+    supplierReturnReason
+    state
+    description optional
+    unique number
+supplierReturnItem
+    supplierReturn
+    item
+    purchaseOrderItem optional
+    quantity realNumber
+    acceptedQuantity realNumber optional
+    condition optional
+    description optional
+supplierReturnShipment
+    supplierReturn
+    shipment
+    shippedDate optional
+    trackingNumber optional
+supplierReturnSettlement
+    supplierReturn
+    refund optional
+    replacementPurchaseOrder optional
+    creditAmount realNumber optional
+    currency optional
+    settlementDate optional
+    state
