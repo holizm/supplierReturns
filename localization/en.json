@@ -1,0 +1,25 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "acceptedQuantity": "Accepted quantity",
+        "condition": "Condition",
+        "description": "Description",
+        "item": "Item",
+        "items": "Returned items",
+        "number": "Number",
+        "purchaseOrder": "Purchase order",
+        "quantity": "Quantity",
+        "reason": "Return reason",
+        "requestDate": "Request date",
+        "return": "Supplier return",
+        "returns": "Supplier returns",
+        "state": "State",
+        "supplier": "Supplier",
+        "supplierReturns": "Supplier returns"
+    },
+    "site": {
+        "number": "Return number",
+        "state": "Return state"
+    }
+}
