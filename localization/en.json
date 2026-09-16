@@ -8,7 +8,6 @@
         "purchaseOrder": "Purchase order",
         "reason": "Return reason",
         "requestDate": "Request date",
-        "return": "Supplier return",
-        "state": "Return state"
+        "return": "Supplier return"
     }
 }
