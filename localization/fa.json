@@ -2,18 +2,14 @@
     "common": {
         "acceptedQuantity": "تعداد پذیرفته‌شده",
         "condition": "وضعیت کالا",
-        "description": "توضیحات",
-        "item": "آیتم",
         "items": "اقلام مرجوعی",
         "number": "شماره مرجوعی",
         "purchaseOrder": "سفارش خرید",
-        "quantity": "تعداد",
         "reason": "دلیل مرجوعی",
         "requestDate": "تاریخ درخواست",
         "return": "مرجوعی به تأمین‌کننده",
         "returns": "مرجوعی‌های تأمین‌کنندگان",
         "state": "مرحله مرجوعی",
-        "supplier": "تأمین‌کننده",
         "supplierReturns": "مرجوعی به تأمین‌کنندگان"
     }
 }

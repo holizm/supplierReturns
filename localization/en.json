@@ -3,16 +3,12 @@
         "returns": "Supplier returns",
         "acceptedQuantity": "Accepted quantity",
         "condition": "Condition",
-        "description": "Description",
-        "item": "Item",
         "items": "Returned items",
         "number": "Return number",
         "purchaseOrder": "Purchase order",
-        "quantity": "Quantity",
         "reason": "Return reason",
         "requestDate": "Request date",
         "return": "Supplier return",
-        "state": "Return state",
-        "supplier": "Supplier"
+        "state": "Return state"
     }
 }
