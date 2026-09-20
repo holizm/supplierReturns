@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "ወደ አቅራቢዎች የተመለሱ",
+        "acceptedQuantity": "ተቀባይነት ያገኘ መጠን",
+        "condition": "ሁኔታ",
+        "items": "የተመለሱ ዕቃዎች",
+        "number": "የመመለሻ ቁጥር",
+        "purchaseOrder": "የግዥ ትዕዛዞች",
+        "reason": "ምክንያት",
+        "requestDate": "የጥያቄ ቀን",
+        "return": "ወደ አቅራቢ መመለሻ"
+    }
+}

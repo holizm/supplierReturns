@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Povrati dobavljačima",
+        "acceptedQuantity": "Prihvaćena količina",
+        "condition": "Stanje",
+        "items": "Vraćene stavke",
+        "number": "Broj povrata",
+        "purchaseOrder": "Narudžbenice",
+        "reason": "Razlog",
+        "requestDate": "Datum zahtjeva",
+        "return": "Povrat dobavljaču"
+    }
+}

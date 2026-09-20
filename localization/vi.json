@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Trả hàng cho nhà cung cấp",
+        "acceptedQuantity": "Số lượng được chấp nhận",
+        "condition": "Tình trạng",
+        "items": "Mặt hàng trả lại",
+        "number": "Số phiếu trả hàng",
+        "purchaseOrder": "Đơn mua hàng",
+        "reason": "Lý do",
+        "requestDate": "Ngày yêu cầu",
+        "return": "Trả hàng cho nhà cung cấp"
+    }
+}

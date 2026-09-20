@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "مرتجعات الموردين",
+        "acceptedQuantity": "الكمية المقبولة",
+        "condition": "الحالة",
+        "items": "الأصناف المرتجعة",
+        "number": "رقم المرتجع",
+        "purchaseOrder": "أوامر الشراء",
+        "reason": "السبب",
+        "requestDate": "تاريخ الطلب",
+        "return": "مرتجع المورد"
+    }
+}

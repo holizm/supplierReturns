@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "החזרות לספקים",
+        "acceptedQuantity": "כמות שאושרה",
+        "condition": "מצב",
+        "items": "פריטים שהוחזרו",
+        "number": "מספר החזרה",
+        "purchaseOrder": "הזמנות רכש",
+        "reason": "סיבה",
+        "requestDate": "תאריך הבקשה",
+        "return": "החזרה לספק"
+    }
+}

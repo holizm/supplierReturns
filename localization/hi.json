@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "आपूर्तिकर्ता को वापसी",
+        "acceptedQuantity": "स्वीकृत मात्रा",
+        "condition": "स्थिति",
+        "items": "वापस की गई वस्तुएँ",
+        "number": "वापसी संख्या",
+        "purchaseOrder": "क्रय आदेश",
+        "reason": "कारण",
+        "requestDate": "अनुरोध की तारीख",
+        "return": "आपूर्तिकर्ता को वापसी"
+    }
+}

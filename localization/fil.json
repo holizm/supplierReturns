@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Mga balik sa supplier",
+        "acceptedQuantity": "Tinanggap na dami",
+        "condition": "Kondisyon",
+        "items": "Mga ibinalik na item",
+        "number": "Numero ng pagbabalik",
+        "purchaseOrder": "Mga purchase order",
+        "reason": "Dahilan",
+        "requestDate": "Petsa ng kahilingan",
+        "return": "Pagbabalik sa supplier"
+    }
+}

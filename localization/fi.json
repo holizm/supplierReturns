@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Palautukset toimittajille",
+        "acceptedQuantity": "Hyväksytty määrä",
+        "condition": "Kunto",
+        "items": "Palautetut tuotteet",
+        "number": "Palautusnumero",
+        "purchaseOrder": "Ostotilaukset",
+        "reason": "Syy",
+        "requestDate": "Pyyntöpäivä",
+        "return": "Palautus toimittajalle"
+    }
+}

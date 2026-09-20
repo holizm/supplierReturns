@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "供应商退货",
+        "acceptedQuantity": "接受数量",
+        "condition": "商品状况",
+        "items": "退回的商品",
+        "number": "退货编号",
+        "purchaseOrder": "采购订单",
+        "reason": "原因",
+        "requestDate": "申请日期",
+        "return": "供应商退货"
+    }
+}

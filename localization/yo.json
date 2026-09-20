@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Àwọn ìpadà sí olùpèsè",
+        "acceptedQuantity": "Iye tí a gbà",
+        "condition": "Ipò",
+        "items": "Àwọn ohun tí a dá padà",
+        "number": "Nọ́mbà ìpadà",
+        "purchaseOrder": "Àwọn àṣẹ ìràjà",
+        "reason": "Ìdí",
+        "requestDate": "Ọjọ́ ìbéèrè",
+        "return": "Ìpadà sí olùpèsè"
+    }
+}

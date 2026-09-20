@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Devoluciones a proveedores",
+        "acceptedQuantity": "Cantidad aceptada",
+        "condition": "Estado",
+        "items": "Artículos devueltos",
+        "number": "Número de devolución",
+        "purchaseOrder": "Órdenes de compra",
+        "reason": "Motivo",
+        "requestDate": "Fecha de solicitud",
+        "return": "Devolución a proveedor"
+    }
+}

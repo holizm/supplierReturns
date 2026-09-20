@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Retururi către furnizori",
+        "acceptedQuantity": "Cantitate acceptată",
+        "condition": "Stare",
+        "items": "Articole returnate",
+        "number": "Număr de retur",
+        "purchaseOrder": "Comenzi de achiziție",
+        "reason": "Motiv",
+        "requestDate": "Data solicitării",
+        "return": "Retur către furnizor"
+    }
+}

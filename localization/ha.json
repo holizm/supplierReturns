@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Mayarwa ga masu kaya",
+        "acceptedQuantity": "Adadin da aka amince",
+        "condition": "Yanayi",
+        "items": "Kayayyakin da aka mayar",
+        "number": "Lambar mayarwa",
+        "purchaseOrder": "Odar saye",
+        "reason": "Dalili",
+        "requestDate": "Ranar buƙata",
+        "return": "Mayarwa ga mai kaya"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "공급업체 반품",
+        "acceptedQuantity": "승인 수량",
+        "condition": "상태",
+        "items": "반품 품목",
+        "number": "반품 번호",
+        "purchaseOrder": "구매 주문서",
+        "reason": "사유",
+        "requestDate": "요청일",
+        "return": "공급업체 반품"
+    }
+}

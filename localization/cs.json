@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Vrácení dodavatelům",
+        "acceptedQuantity": "Přijaté množství",
+        "condition": "Stav",
+        "items": "Vrácené položky",
+        "number": "Číslo vrácení",
+        "purchaseOrder": "Nákupní objednávky",
+        "reason": "Důvod",
+        "requestDate": "Datum žádosti",
+        "return": "Vrácení dodavateli"
+    }
+}

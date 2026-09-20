@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "पुरवठादाराला परतावा",
+        "acceptedQuantity": "स्वीकृत प्रमाण",
+        "condition": "स्थिती",
+        "items": "परत केलेल्या वस्तू",
+        "number": "परतावा क्रमांक",
+        "purchaseOrder": "खरेदी आदेश",
+        "reason": "कारण",
+        "requestDate": "विनंतीची तारीख",
+        "return": "पुरवठादाराला परतावा"
+    }
+}

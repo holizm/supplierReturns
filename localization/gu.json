@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "સપ્લાયરને પરત કરેલ માલ",
+        "acceptedQuantity": "સ્વીકૃત જથ્થો",
+        "condition": "સ્થિતિ",
+        "items": "પરત કરેલી વસ્તુઓ",
+        "number": "પરત નંબર",
+        "purchaseOrder": "ખરીદી ઓર્ડરો",
+        "reason": "કારણ",
+        "requestDate": "વિનંતીની તારીખ",
+        "return": "સપ્લાયરને પરત કરેલ માલ"
+    }
+}

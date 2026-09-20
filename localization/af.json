@@ -1,0 +1,13 @@
+{
+    "common": {
+        "returns": "Terugsendings aan verskaffers",
+        "acceptedQuantity": "Aanvaarde hoeveelheid",
+        "condition": "Toestand",
+        "items": "Teruggestuurde items",
+        "number": "Terugsendingsnommer",
+        "purchaseOrder": "Aankoopbestellings",
+        "reason": "Rede",
+        "requestDate": "Versoekdatum",
+        "return": "Terugsending aan verskaffer"
+    }
+}
