@@ -7,6 +7,16 @@
         "reason": "Return reason",
         "requestDate": "Request date",
         "return": "Supplier return",
-        "returns": "Supplier returns"
+        "returns": "Supplier returns",
+        "supplierReturn": "Supplier return",
+        "supplierReturnItem": "Supplier return – Item",
+        "supplierReturnItems": "Returned items",
+        "supplierReturnReason": "Return reason",
+        "supplierReturnReasons": "Return reason",
+        "supplierReturnSettlement": "Supplier return – Settlement",
+        "supplierReturnSettlements": "Supplier returns – Settlements",
+        "supplierReturnShipment": "Supplier return – Shipment",
+        "supplierReturnShipments": "Supplier returns – Shipments",
+        "supplierReturns": "Supplier returns"
     }
 }

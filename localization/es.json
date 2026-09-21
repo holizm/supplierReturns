@@ -7,6 +7,16 @@
         "reason": "Motivo",
         "requestDate": "Fecha de solicitud",
         "return": "Devolución a proveedor",
-        "returns": "Devoluciones a proveedores"
+        "returns": "Devoluciones a proveedores",
+        "supplierReturn": "Devolución a proveedor",
+        "supplierReturnItem": "Devolución a proveedor – Artículo",
+        "supplierReturnItems": "Artículos devueltos",
+        "supplierReturnReason": "Motivo",
+        "supplierReturnReasons": "Motivo",
+        "supplierReturnSettlement": "Devolución a proveedor – Liquidación",
+        "supplierReturnSettlements": "Devoluciones a proveedores – Liquidaciones",
+        "supplierReturnShipment": "Devolución a proveedor – Envío",
+        "supplierReturnShipments": "Devoluciones a proveedores – Envíos",
+        "supplierReturns": "Devoluciones a proveedores"
     }
 }

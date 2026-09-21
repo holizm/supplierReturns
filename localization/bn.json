@@ -7,6 +7,16 @@
         "reason": "কারণ",
         "requestDate": "অনুরোধের তারিখ",
         "return": "সরবরাহকারীর কাছে ফেরত",
-        "returns": "সরবরাহকারীর কাছে ফেরত"
+        "returns": "সরবরাহকারীর কাছে ফেরত",
+        "supplierReturn": "সরবরাহকারীর কাছে ফেরত",
+        "supplierReturnItem": "সরবরাহকারীর কাছে ফেরত – আইটেম",
+        "supplierReturnItems": "ফেরত দেওয়া পণ্য",
+        "supplierReturnReason": "কারণ",
+        "supplierReturnReasons": "কারণ",
+        "supplierReturnSettlement": "সরবরাহকারীর কাছে ফেরত – নিষ্পত্তি",
+        "supplierReturnSettlements": "সরবরাহকারীর কাছে ফেরত – নিষ্পত্তিসমূহ",
+        "supplierReturnShipment": "সরবরাহকারীর কাছে ফেরত – জাহাজে প্রেরিত কাজ",
+        "supplierReturnShipments": "সরবরাহকারীর কাছে ফেরত – চালানসমূহ",
+        "supplierReturns": "সরবরাহকারীর কাছে ফেরত"
     }
 }

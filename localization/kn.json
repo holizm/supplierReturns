@@ -7,6 +7,16 @@
         "reason": "ಕಾರಣ",
         "requestDate": "ವಿನಂತಿಸಿದ ದಿನಾಂಕ",
         "return": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸುವಿಕೆ",
-        "returns": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸಿದ ಸರಕುಗಳು"
+        "returns": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸಿದ ಸರಕುಗಳು",
+        "supplierReturn": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸುವಿಕೆ",
+        "supplierReturnItem": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸುವಿಕೆ – ಅಂಶ",
+        "supplierReturnItems": "ಹಿಂದಿರುಗಿಸಿದ ವಸ್ತುಗಳು",
+        "supplierReturnReason": "ಕಾರಣ",
+        "supplierReturnReasons": "ಕಾರಣ",
+        "supplierReturnSettlement": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸುವಿಕೆ – ಇತ್ಯರ್ಥ",
+        "supplierReturnSettlements": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸಿದ ಸರಕುಗಳು – ಇತ್ಯರ್ಥಗಳು",
+        "supplierReturnShipment": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸುವಿಕೆ – ಸಾಗಣೆ",
+        "supplierReturnShipments": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸಿದ ಸರಕುಗಳು – ಸಾಗಣೆಗಳು",
+        "supplierReturns": "ಪೂರೈಕೆದಾರರಿಗೆ ಹಿಂದಿರುಗಿಸಿದ ಸರಕುಗಳು"
     }
 }

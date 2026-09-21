@@ -7,6 +7,16 @@
         "reason": "કારણ",
         "requestDate": "વિનંતીની તારીખ",
         "return": "સપ્લાયરને પરત કરેલ માલ",
-        "returns": "સપ્લાયરને પરત કરેલ માલ"
+        "returns": "સપ્લાયરને પરત કરેલ માલ",
+        "supplierReturn": "સપ્લાયરને પરત કરેલ માલ",
+        "supplierReturnItem": "સપ્લાયરને પરત કરેલ માલ – આઇટમ",
+        "supplierReturnItems": "પરત કરેલી વસ્તુઓ",
+        "supplierReturnReason": "કારણ",
+        "supplierReturnReasons": "કારણ",
+        "supplierReturnSettlement": "સપ્લાયરને પરત કરેલ માલ – પતાવટ",
+        "supplierReturnSettlements": "સપ્લાયરને પરત કરેલ માલ – પતાવટો",
+        "supplierReturnShipment": "સપ્લાયરને પરત કરેલ માલ – માલ મોકલવું",
+        "supplierReturnShipments": "સપ્લાયરને પરત કરેલ માલ – માલ મોકલણીઓ",
+        "supplierReturns": "સપ્લાયરને પરત કરેલ માલ"
     }
 }

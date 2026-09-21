@@ -7,6 +7,16 @@
         "reason": "Alasan",
         "requestDate": "Tanggal permintaan",
         "return": "Retur pemasok",
-        "returns": "Retur pemasok"
+        "returns": "Retur pemasok",
+        "supplierReturn": "Retur pemasok",
+        "supplierReturnItem": "Retur pemasok – Item",
+        "supplierReturnItems": "Barang yang diretur",
+        "supplierReturnReason": "Alasan",
+        "supplierReturnReasons": "Alasan",
+        "supplierReturnSettlement": "Retur pemasok – Penyelesaian",
+        "supplierReturnSettlements": "Retur pemasok – Penyelesaian",
+        "supplierReturnShipment": "Retur pemasok – Pengiriman",
+        "supplierReturnShipments": "Retur pemasok – Pengiriman",
+        "supplierReturns": "Retur pemasok"
     }
 }

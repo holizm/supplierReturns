@@ -7,6 +7,16 @@
         "reason": "Reden",
         "requestDate": "Aanvraagdatum",
         "return": "Leveranciersretour",
-        "returns": "Leveranciersretouren"
+        "returns": "Leveranciersretouren",
+        "supplierReturn": "Leveranciersretour",
+        "supplierReturnItem": "Leveranciersretour – Item",
+        "supplierReturnItems": "Geretourneerde artikelen",
+        "supplierReturnReason": "Reden",
+        "supplierReturnReasons": "Reden",
+        "supplierReturnSettlement": "Leveranciersretour – Afwikkeling",
+        "supplierReturnSettlements": "Leveranciersretouren – Afwikkelingen",
+        "supplierReturnShipment": "Leveranciersretour – Verzending",
+        "supplierReturnShipments": "Leveranciersretouren – Verzendingen",
+        "supplierReturns": "Leveranciersretouren"
     }
 }

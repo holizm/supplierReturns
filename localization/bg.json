@@ -7,6 +7,16 @@
         "reason": "Причина",
         "requestDate": "Дата на заявката",
         "return": "Връщане към доставчик",
-        "returns": "Връщания към доставчици"
+        "returns": "Връщания към доставчици",
+        "supplierReturn": "Връщане към доставчик",
+        "supplierReturnItem": "Връщане към доставчик – Елемент",
+        "supplierReturnItems": "Върнати артикули",
+        "supplierReturnReason": "Причина",
+        "supplierReturnReasons": "Причина",
+        "supplierReturnSettlement": "Връщане към доставчик – Уреждане",
+        "supplierReturnSettlements": "Връщания към доставчици – Уреждания",
+        "supplierReturnShipment": "Връщане към доставчик – Доставка",
+        "supplierReturnShipments": "Връщания към доставчици – Доставки",
+        "supplierReturns": "Връщания към доставчици"
     }
 }

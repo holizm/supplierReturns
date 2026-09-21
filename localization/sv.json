@@ -7,6 +7,16 @@
         "reason": "Orsak",
         "requestDate": "Begäransdatum",
         "return": "Leverantörsretur",
-        "returns": "Leverantörsreturer"
+        "returns": "Leverantörsreturer",
+        "supplierReturn": "Leverantörsretur",
+        "supplierReturnItem": "Leverantörsretur – Objekt",
+        "supplierReturnItems": "Returnerade artiklar",
+        "supplierReturnReason": "Orsak",
+        "supplierReturnReasons": "Orsak",
+        "supplierReturnSettlement": "Leverantörsretur – Avräkning",
+        "supplierReturnSettlements": "Leverantörsreturer – Avräkningar",
+        "supplierReturnShipment": "Leverantörsretur – Leverans",
+        "supplierReturnShipments": "Leverantörsreturer – Leveranser",
+        "supplierReturns": "Leverantörsreturer"
     }
 }

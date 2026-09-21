@@ -7,6 +7,16 @@
         "reason": "Motiv",
         "requestDate": "Data solicitării",
         "return": "Retur către furnizor",
-        "returns": "Retururi către furnizori"
+        "returns": "Retururi către furnizori",
+        "supplierReturn": "Retur către furnizor",
+        "supplierReturnItem": "Retur către furnizor – Element",
+        "supplierReturnItems": "Articole returnate",
+        "supplierReturnReason": "Motiv",
+        "supplierReturnReasons": "Motiv",
+        "supplierReturnSettlement": "Retur către furnizor – Decontare",
+        "supplierReturnSettlements": "Retururi către furnizori – Decontări",
+        "supplierReturnShipment": "Retur către furnizor – Livrare",
+        "supplierReturnShipments": "Retururi către furnizori – Livrări",
+        "supplierReturns": "Retururi către furnizori"
     }
 }

@@ -7,6 +7,16 @@
         "reason": "Razlog",
         "requestDate": "Datum zahtjeva",
         "return": "Povrat dobavljaču",
-        "returns": "Povrati dobavljačima"
+        "returns": "Povrati dobavljačima",
+        "supplierReturn": "Povrat dobavljaču",
+        "supplierReturnItem": "Povrat dobavljaču – Stavka",
+        "supplierReturnItems": "Vraćene stavke",
+        "supplierReturnReason": "Razlog",
+        "supplierReturnReasons": "Razlog",
+        "supplierReturnSettlement": "Povrat dobavljaču – Namirenje",
+        "supplierReturnSettlements": "Povrati dobavljačima – Namirenja",
+        "supplierReturnShipment": "Povrat dobavljaču – Dostava",
+        "supplierReturnShipments": "Povrati dobavljačima – Dostave",
+        "supplierReturns": "Povrati dobavljačima"
     }
 }

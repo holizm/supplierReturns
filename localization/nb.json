@@ -7,6 +7,16 @@
         "reason": "Årsak",
         "requestDate": "Forespørselsdato",
         "return": "Leverandørretur",
-        "returns": "Leverandørreturer"
+        "returns": "Leverandørreturer",
+        "supplierReturn": "Leverandørretur",
+        "supplierReturnItem": "Leverandørretur – Element",
+        "supplierReturnItems": "Returnerte varer",
+        "supplierReturnReason": "Årsak",
+        "supplierReturnReasons": "Årsak",
+        "supplierReturnSettlement": "Leverandørretur – Oppgjør",
+        "supplierReturnSettlements": "Leverandørreturer – Oppgjør",
+        "supplierReturnShipment": "Leverandørretur – Forsendelse",
+        "supplierReturnShipments": "Leverandørreturer – Forsendelser",
+        "supplierReturns": "Leverandørreturer"
     }
 }

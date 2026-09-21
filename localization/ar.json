@@ -7,6 +7,16 @@
         "reason": "السبب",
         "requestDate": "تاريخ الطلب",
         "return": "مرتجع المورد",
-        "returns": "مرتجعات الموردين"
+        "returns": "مرتجعات الموردين",
+        "supplierReturn": "مرتجع المورد",
+        "supplierReturnItem": "مرتجع المورد – عنصر",
+        "supplierReturnItems": "الأصناف المرتجعة",
+        "supplierReturnReason": "السبب",
+        "supplierReturnReasons": "السبب",
+        "supplierReturnSettlement": "مرتجع المورد – تسوية",
+        "supplierReturnSettlements": "مرتجعات الموردين – تسويات",
+        "supplierReturnShipment": "مرتجع المورد – شحنة",
+        "supplierReturnShipments": "مرتجعات الموردين – شحنات",
+        "supplierReturns": "مرتجعات الموردين"
     }
 }

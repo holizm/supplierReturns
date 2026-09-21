@@ -7,6 +7,16 @@
         "reason": "Lý do",
         "requestDate": "Ngày yêu cầu",
         "return": "Trả hàng cho nhà cung cấp",
-        "returns": "Trả hàng cho nhà cung cấp"
+        "returns": "Trả hàng cho nhà cung cấp",
+        "supplierReturn": "Trả hàng cho nhà cung cấp",
+        "supplierReturnItem": "Trả hàng cho nhà cung cấp – Mục",
+        "supplierReturnItems": "Mặt hàng trả lại",
+        "supplierReturnReason": "Lý do",
+        "supplierReturnReasons": "Lý do",
+        "supplierReturnSettlement": "Trả hàng cho nhà cung cấp – Quyết toán",
+        "supplierReturnSettlements": "Trả hàng cho nhà cung cấp – Các quyết toán",
+        "supplierReturnShipment": "Trả hàng cho nhà cung cấp – Lô hàng",
+        "supplierReturnShipments": "Trả hàng cho nhà cung cấp – Các lô hàng",
+        "supplierReturns": "Trả hàng cho nhà cung cấp"
     }
 }

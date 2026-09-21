@@ -7,6 +7,16 @@
         "reason": "காரணம்",
         "requestDate": "கோரிக்கை தேதி",
         "return": "விநியோகஸ்தருக்குத் திருப்பல்",
-        "returns": "விநியோகஸ்தருக்குத் திருப்பியவை"
+        "returns": "விநியோகஸ்தருக்குத் திருப்பியவை",
+        "supplierReturn": "விநியோகஸ்தருக்குத் திருப்பல்",
+        "supplierReturnItem": "விநியோகஸ்தருக்குத் திருப்பல் – உருப்படி",
+        "supplierReturnItems": "திருப்பிய பொருட்கள்",
+        "supplierReturnReason": "காரணம்",
+        "supplierReturnReasons": "காரணம்",
+        "supplierReturnSettlement": "விநியோகஸ்தருக்குத் திருப்பல் – தீர்வு",
+        "supplierReturnSettlements": "விநியோகஸ்தருக்குத் திருப்பியவை – தீர்வுகள்",
+        "supplierReturnShipment": "விநியோகஸ்தருக்குத் திருப்பல் – ஏற்றுமதி",
+        "supplierReturnShipments": "விநியோகஸ்தருக்குத் திருப்பியவை – ஏற்றுமதிகள்",
+        "supplierReturns": "விநியோகஸ்தருக்குத் திருப்பியவை"
     }
 }

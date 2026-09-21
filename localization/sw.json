@@ -7,6 +7,16 @@
         "reason": "Sababu",
         "requestDate": "Tarehe ya ombi",
         "return": "Marejesho kwa msambazaji",
-        "returns": "Marejesho kwa wasambazaji"
+        "returns": "Marejesho kwa wasambazaji",
+        "supplierReturn": "Marejesho kwa msambazaji",
+        "supplierReturnItem": "Marejesho kwa msambazaji – Kipengee",
+        "supplierReturnItems": "Bidhaa zilizorejeshwa",
+        "supplierReturnReason": "Sababu",
+        "supplierReturnReasons": "Sababu",
+        "supplierReturnSettlement": "Marejesho kwa msambazaji – Makubaliano",
+        "supplierReturnSettlements": "Marejesho kwa wasambazaji – Makubaliano",
+        "supplierReturnShipment": "Marejesho kwa msambazaji – Usafirishaji",
+        "supplierReturnShipments": "Marejesho kwa wasambazaji – Usafirishaji",
+        "supplierReturns": "Marejesho kwa wasambazaji"
     }
 }

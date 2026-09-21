@@ -7,6 +7,16 @@
         "reason": "Neden",
         "requestDate": "Talep tarihi",
         "return": "Tedarikçiye iade",
-        "returns": "Tedarikçiye iadeler"
+        "returns": "Tedarikçiye iadeler",
+        "supplierReturn": "Tedarikçiye iade",
+        "supplierReturnItem": "Tedarikçiye iade – Öğe",
+        "supplierReturnItems": "İade edilen ürünler",
+        "supplierReturnReason": "Neden",
+        "supplierReturnReasons": "Neden",
+        "supplierReturnSettlement": "Tedarikçiye iade – Mutabakat",
+        "supplierReturnSettlements": "Tedarikçiye iadeler – Mutabakatlar",
+        "supplierReturnShipment": "Tedarikçiye iade – gönderi",
+        "supplierReturnShipments": "Tedarikçiye iadeler – Gönderiler",
+        "supplierReturns": "Tedarikçiye iadeler"
     }
 }

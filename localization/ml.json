@@ -7,6 +7,16 @@
         "reason": "കാരണം",
         "requestDate": "അഭ്യർത്ഥന തീയതി",
         "return": "വിതരണക്കാരനുള്ള മടക്കം",
-        "returns": "വിതരണക്കാരനുള്ള മടക്കങ്ങൾ"
+        "returns": "വിതരണക്കാരനുള്ള മടക്കങ്ങൾ",
+        "supplierReturn": "വിതരണക്കാരനുള്ള മടക്കം",
+        "supplierReturnItem": "വിതരണക്കാരനുള്ള മടക്കം – ഇനം",
+        "supplierReturnItems": "മടക്കിയ ഇനങ്ങൾ",
+        "supplierReturnReason": "കാരണം",
+        "supplierReturnReasons": "കാരണം",
+        "supplierReturnSettlement": "വിതരണക്കാരനുള്ള മടക്കം – തീർപ്പാക്കൽ",
+        "supplierReturnSettlements": "വിതരണക്കാരനുള്ള മടക്കങ്ങൾ – തീർപ്പാക്കലുകൾ",
+        "supplierReturnShipment": "വിതരണക്കാരനുള്ള മടക്കം – ചരക്കയയ്ക്കൽ",
+        "supplierReturnShipments": "വിതരണക്കാരനുള്ള മടക്കങ്ങൾ – ചരക്കയയ്ക്കലുകൾ",
+        "supplierReturns": "വിതരണക്കാരനുള്ള മടക്കങ്ങൾ"
     }
 }

@@ -7,6 +7,16 @@
         "reason": "कारण",
         "requestDate": "विनंतीची तारीख",
         "return": "पुरवठादाराला परतावा",
-        "returns": "पुरवठादाराला परतावा"
+        "returns": "पुरवठादाराला परतावा",
+        "supplierReturn": "पुरवठादाराला परतावा",
+        "supplierReturnItem": "पुरवठादाराला परतावा – घटक",
+        "supplierReturnItems": "परत केलेल्या वस्तू",
+        "supplierReturnReason": "कारण",
+        "supplierReturnReasons": "कारण",
+        "supplierReturnSettlement": "पुरवठादाराला परतावा – निपटारा",
+        "supplierReturnSettlements": "पुरवठादाराला परतावा – निपटारे",
+        "supplierReturnShipment": "पुरवठादाराला परतावा – माल पाठवणी",
+        "supplierReturnShipments": "पुरवठादाराला परतावा – माल पाठवण्या",
+        "supplierReturns": "पुरवठादाराला परतावा"
     }
 }

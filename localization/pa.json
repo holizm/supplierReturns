@@ -7,6 +7,16 @@
         "reason": "ਕਾਰਨ",
         "requestDate": "ਬੇਨਤੀ ਦੀ ਮਿਤੀ",
         "return": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ",
-        "returns": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ"
+        "returns": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ",
+        "supplierReturn": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ",
+        "supplierReturnItem": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ – ਆਈਟਮ",
+        "supplierReturnItems": "ਵਾਪਸ ਕੀਤੀਆਂ ਆਈਟਮਾਂ",
+        "supplierReturnReason": "ਕਾਰਨ",
+        "supplierReturnReasons": "ਕਾਰਨ",
+        "supplierReturnSettlement": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ – ਨਿਪਟਾਰਾ",
+        "supplierReturnSettlements": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ – ਨਿਪਟਾਰੇ",
+        "supplierReturnShipment": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ – ਸ਼ਿਪਮੈਂਟ",
+        "supplierReturnShipments": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ – ਸ਼ਿਪਮੈਂਟਾਂ",
+        "supplierReturns": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ"
     }
 }

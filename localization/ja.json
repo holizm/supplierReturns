@@ -7,6 +7,16 @@
         "reason": "理由",
         "requestDate": "申請日",
         "return": "仕入先返品",
-        "returns": "仕入先返品"
+        "returns": "仕入先返品",
+        "supplierReturn": "仕入先返品",
+        "supplierReturnItem": "仕入先返品 – 項目",
+        "supplierReturnItems": "返品商品",
+        "supplierReturnReason": "理由",
+        "supplierReturnReasons": "理由",
+        "supplierReturnSettlement": "仕入先返品 – 精算",
+        "supplierReturnSettlements": "仕入先返品 – 精算",
+        "supplierReturnShipment": "仕入先返品 – 出荷",
+        "supplierReturnShipments": "仕入先返品 – 出荷",
+        "supplierReturns": "仕入先返品"
     }
 }

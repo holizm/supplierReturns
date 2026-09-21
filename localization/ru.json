@@ -7,6 +7,16 @@
         "reason": "Причина",
         "requestDate": "Дата запроса",
         "return": "Возврат поставщику",
-        "returns": "Возвраты поставщикам"
+        "returns": "Возвраты поставщикам",
+        "supplierReturn": "Возврат поставщику",
+        "supplierReturnItem": "Возврат поставщику – Элемент",
+        "supplierReturnItems": "Возвращённые товары",
+        "supplierReturnReason": "Причина",
+        "supplierReturnReasons": "Причина",
+        "supplierReturnSettlement": "Возврат поставщику – Расчёт",
+        "supplierReturnSettlements": "Возвраты поставщикам – Расчёты",
+        "supplierReturnShipment": "Возврат поставщику – Отгрузка",
+        "supplierReturnShipments": "Возвраты поставщикам – Отгрузки",
+        "supplierReturns": "Возвраты поставщикам"
     }
 }

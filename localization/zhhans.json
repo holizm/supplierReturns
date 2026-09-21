@@ -7,6 +7,16 @@
         "reason": "原因",
         "requestDate": "申请日期",
         "return": "供应商退货",
-        "returns": "供应商退货"
+        "returns": "供应商退货",
+        "supplierReturn": "供应商退货",
+        "supplierReturnItem": "供应商退货 – 项目",
+        "supplierReturnItems": "退回的商品",
+        "supplierReturnReason": "原因",
+        "supplierReturnReasons": "原因",
+        "supplierReturnSettlement": "供应商退货 – 结算",
+        "supplierReturnSettlements": "供应商退货 – 结算",
+        "supplierReturnShipment": "供应商退货 – 配送",
+        "supplierReturnShipments": "供应商退货 – 配送",
+        "supplierReturns": "供应商退货"
     }
 }

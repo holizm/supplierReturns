@@ -7,6 +7,16 @@
         "reason": "Důvod",
         "requestDate": "Datum žádosti",
         "return": "Vrácení dodavateli",
-        "returns": "Vrácení dodavatelům"
+        "returns": "Vrácení dodavatelům",
+        "supplierReturn": "Vrácení dodavateli",
+        "supplierReturnItem": "Vrácení dodavateli – Položka",
+        "supplierReturnItems": "Vrácené položky",
+        "supplierReturnReason": "Důvod",
+        "supplierReturnReasons": "Důvod",
+        "supplierReturnSettlement": "Vrácení dodavateli – Vypořádání",
+        "supplierReturnSettlements": "Vrácení dodavatelům – Vypořádání",
+        "supplierReturnShipment": "Vrácení dodavateli – Doprava",
+        "supplierReturnShipments": "Vrácení dodavatelům – Zásilky",
+        "supplierReturns": "Vrácení dodavatelům"
     }
 }

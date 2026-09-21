@@ -7,6 +7,16 @@
         "reason": "Разлог",
         "requestDate": "Датум захтева",
         "return": "Поврат добављачу",
-        "returns": "Поврати добављачима"
+        "returns": "Поврати добављачима",
+        "supplierReturn": "Поврат добављачу",
+        "supplierReturnItem": "Поврат добављачу – Stavka",
+        "supplierReturnItems": "Враћене ставке",
+        "supplierReturnReason": "Разлог",
+        "supplierReturnReasons": "Разлог",
+        "supplierReturnSettlement": "Поврат добављачу – Поравнање",
+        "supplierReturnSettlements": "Поврати добављачима – Поравнања",
+        "supplierReturnShipment": "Поврат добављачу – Достава",
+        "supplierReturnShipments": "Поврати добављачима – Доставе",
+        "supplierReturns": "Поврати добављачима"
     }
 }

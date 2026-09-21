@@ -7,6 +7,16 @@
         "reason": "เหตุผล",
         "requestDate": "วันที่ร้องขอ",
         "return": "การคืนสินค้าให้ซัพพลายเออร์",
-        "returns": "การคืนสินค้าให้ซัพพลายเออร์"
+        "returns": "การคืนสินค้าให้ซัพพลายเออร์",
+        "supplierReturn": "การคืนสินค้าให้ซัพพลายเออร์",
+        "supplierReturnItem": "การคืนสินค้าให้ซัพพลายเออร์ – รายการ",
+        "supplierReturnItems": "สินค้าที่ส่งคืน",
+        "supplierReturnReason": "เหตุผล",
+        "supplierReturnReasons": "เหตุผล",
+        "supplierReturnSettlement": "การคืนสินค้าให้ซัพพลายเออร์ – การชำระบัญชี",
+        "supplierReturnSettlements": "การคืนสินค้าให้ซัพพลายเออร์ – การชำระบัญชี",
+        "supplierReturnShipment": "การคืนสินค้าให้ซัพพลายเออร์ – การจัดส่ง",
+        "supplierReturnShipments": "การคืนสินค้าให้ซัพพลายเออร์ – การจัดส่ง",
+        "supplierReturns": "การคืนสินค้าให้ซัพพลายเออร์"
     }
 }

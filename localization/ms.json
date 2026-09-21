@@ -7,6 +7,16 @@
         "reason": "Sebab",
         "requestDate": "Tarikh permintaan",
         "return": "Pemulangan kepada pembekal",
-        "returns": "Pemulangan kepada pembekal"
+        "returns": "Pemulangan kepada pembekal",
+        "supplierReturn": "Pemulangan kepada pembekal",
+        "supplierReturnItem": "Pemulangan kepada pembekal – Item",
+        "supplierReturnItems": "Item dipulangkan",
+        "supplierReturnReason": "Sebab",
+        "supplierReturnReasons": "Sebab",
+        "supplierReturnSettlement": "Pemulangan kepada pembekal – Penyelesaian",
+        "supplierReturnSettlements": "Pemulangan kepada pembekal – Penyelesaian",
+        "supplierReturnShipment": "Pemulangan kepada pembekal – Penghantaran",
+        "supplierReturnShipments": "Pemulangan kepada pembekal – Penghantaran",
+        "supplierReturns": "Pemulangan kepada pembekal"
     }
 }

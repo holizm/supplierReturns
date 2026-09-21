@@ -7,6 +7,16 @@
         "reason": "Årsag",
         "requestDate": "Anmodningsdato",
         "return": "Leverandørreturnering",
-        "returns": "Leverandørreturneringer"
+        "returns": "Leverandørreturneringer",
+        "supplierReturn": "Leverandørreturnering",
+        "supplierReturnItem": "Leverandørreturnering – Element",
+        "supplierReturnItems": "Returnerede varer",
+        "supplierReturnReason": "Årsag",
+        "supplierReturnReasons": "Årsag",
+        "supplierReturnSettlement": "Leverandørreturnering – Afregning",
+        "supplierReturnSettlements": "Leverandørreturneringer – Afregninger",
+        "supplierReturnShipment": "Leverandørreturnering – Forsendelse",
+        "supplierReturnShipments": "Leverandørreturneringer – Forsendelser",
+        "supplierReturns": "Leverandørreturneringer"
     }
 }

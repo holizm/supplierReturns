@@ -7,6 +7,16 @@
         "reason": "ምክንያት",
         "requestDate": "የጥያቄ ቀን",
         "return": "ወደ አቅራቢ መመለሻ",
-        "returns": "ወደ አቅራቢዎች የተመለሱ"
+        "returns": "ወደ አቅራቢዎች የተመለሱ",
+        "supplierReturn": "ወደ አቅራቢ መመለሻ",
+        "supplierReturnItem": "ወደ አቅራቢ መመለሻ – ንጥል",
+        "supplierReturnItems": "የተመለሱ ዕቃዎች",
+        "supplierReturnReason": "ምክንያት",
+        "supplierReturnReasons": "ምክንያት",
+        "supplierReturnSettlement": "ወደ አቅራቢ መመለሻ – ማስተካከያ",
+        "supplierReturnSettlements": "ወደ አቅራቢዎች የተመለሱ – ማስተካከያዎች",
+        "supplierReturnShipment": "ወደ አቅራቢ መመለሻ – መላኪያ",
+        "supplierReturnShipments": "ወደ አቅራቢዎች የተመለሱ – መላኪያዎች",
+        "supplierReturns": "ወደ አቅራቢዎች የተመለሱ"
     }
 }

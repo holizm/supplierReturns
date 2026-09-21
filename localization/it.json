@@ -7,6 +7,16 @@
         "reason": "Motivo",
         "requestDate": "Data della richiesta",
         "return": "Reso al fornitore",
-        "returns": "Resi ai fornitori"
+        "returns": "Resi ai fornitori",
+        "supplierReturn": "Reso al fornitore",
+        "supplierReturnItem": "Reso al fornitore – Elemento",
+        "supplierReturnItems": "Articoli restituiti",
+        "supplierReturnReason": "Motivo",
+        "supplierReturnReasons": "Motivo",
+        "supplierReturnSettlement": "Reso al fornitore – Regolamento",
+        "supplierReturnSettlements": "Resi ai fornitori – Regolamenti",
+        "supplierReturnShipment": "Reso al fornitore – Spedizione",
+        "supplierReturnShipments": "Resi ai fornitori – Spedizioni",
+        "supplierReturns": "Resi ai fornitori"
     }
 }

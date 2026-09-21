@@ -7,6 +7,16 @@
         "reason": "కారణం",
         "requestDate": "అభ్యర్థించిన తేదీ",
         "return": "సరఫరాదారుకు రిటర్న్",
-        "returns": "సరఫరాదారుకు తిరిగి పంపినవి"
+        "returns": "సరఫరాదారుకు తిరిగి పంపినవి",
+        "supplierReturn": "సరఫరాదారుకు రిటర్న్",
+        "supplierReturnItem": "సరఫరాదారుకు రిటర్న్ – అంశం",
+        "supplierReturnItems": "తిరిగి పంపిన వస్తువులు",
+        "supplierReturnReason": "కారణం",
+        "supplierReturnReasons": "కారణం",
+        "supplierReturnSettlement": "సరఫరాదారుకు రిటర్న్ – పరిష్కారం",
+        "supplierReturnSettlements": "సరఫరాదారుకు తిరిగి పంపినవి – పరిష్కారాలు",
+        "supplierReturnShipment": "సరఫరాదారుకు రిటర్న్ – రవాణా",
+        "supplierReturnShipments": "సరఫరాదారుకు తిరిగి పంపినవి – రవాణాలు",
+        "supplierReturns": "సరఫరాదారుకు తిరిగి పంపినవి"
     }
 }

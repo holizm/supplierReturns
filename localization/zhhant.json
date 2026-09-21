@@ -7,6 +7,16 @@
         "reason": "原因",
         "requestDate": "申請日期",
         "return": "供應商退貨",
-        "returns": "供應商退貨"
+        "returns": "供應商退貨",
+        "supplierReturn": "供應商退貨",
+        "supplierReturnItem": "供應商退貨 – 項目",
+        "supplierReturnItems": "退回的商品",
+        "supplierReturnReason": "原因",
+        "supplierReturnReasons": "原因",
+        "supplierReturnSettlement": "供應商退貨 – 結算",
+        "supplierReturnSettlements": "供應商退貨 – 結算",
+        "supplierReturnShipment": "供應商退貨 – 配送",
+        "supplierReturnShipments": "供應商退貨 – 配送",
+        "supplierReturns": "供應商退貨"
     }
 }

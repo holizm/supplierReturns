@@ -7,6 +7,16 @@
         "reason": "Grund",
         "requestDate": "Anfragedatum",
         "return": "Lieferantenrücksendung",
-        "returns": "Lieferantenrücksendungen"
+        "returns": "Lieferantenrücksendungen",
+        "supplierReturn": "Lieferantenrücksendung",
+        "supplierReturnItem": "Lieferantenrücksendung – Element",
+        "supplierReturnItems": "Zurückgesendete Artikel",
+        "supplierReturnReason": "Grund",
+        "supplierReturnReasons": "Grund",
+        "supplierReturnSettlement": "Lieferantenrücksendung – Abrechnung",
+        "supplierReturnSettlements": "Lieferantenrücksendungen – Abrechnungen",
+        "supplierReturnShipment": "Lieferantenrücksendung – Sendung",
+        "supplierReturnShipments": "Lieferantenrücksendungen – Sendungen",
+        "supplierReturns": "Lieferantenrücksendungen"
     }
 }

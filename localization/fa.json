@@ -8,6 +8,15 @@
         "requestDate": "تاریخ درخواست",
         "return": "مرجوعی به تأمین‌کننده",
         "returns": "مرجوعی‌های تأمین‌کنندگان",
-        "supplierReturns": "مرجوعی به تأمین‌کنندگان"
+        "supplierReturn": "مرجوعی به تأمین‌کننده",
+        "supplierReturnItem": "مرجوعی به تأمین‌کننده – مورد",
+        "supplierReturnItems": "اقلام مرجوعی",
+        "supplierReturnReason": "دلیل مرجوعی",
+        "supplierReturnReasons": "دلیل مرجوعی",
+        "supplierReturnSettlement": "مرجوعی به تأمین‌کننده – تسویه",
+        "supplierReturnSettlements": "مرجوعی‌های تأمین‌کنندگان – تسویه‌ها",
+        "supplierReturnShipment": "مرجوعی به تأمین‌کننده – حمل‌ونقل",
+        "supplierReturnShipments": "مرجوعی‌های تأمین‌کنندگان – محموله‌ها",
+        "supplierReturns": "مرجوعی‌های تأمین‌کنندگان"
     }
 }

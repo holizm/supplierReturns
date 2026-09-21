@@ -7,6 +7,16 @@
         "reason": "Rede",
         "requestDate": "Versoekdatum",
         "return": "Terugsending aan verskaffer",
-        "returns": "Terugsendings aan verskaffers"
+        "returns": "Terugsendings aan verskaffers",
+        "supplierReturn": "Terugsending aan verskaffer",
+        "supplierReturnItem": "Terugsending aan verskaffer – Item",
+        "supplierReturnItems": "Teruggestuurde items",
+        "supplierReturnReason": "Rede",
+        "supplierReturnReasons": "Rede",
+        "supplierReturnSettlement": "Terugsending aan verskaffer – Vereffening",
+        "supplierReturnSettlements": "Terugsendings aan verskaffers – Vereffenings",
+        "supplierReturnShipment": "Terugsending aan verskaffer – Versending",
+        "supplierReturnShipments": "Terugsendings aan verskaffers – Versendings",
+        "supplierReturns": "Terugsendings aan verskaffers"
     }
 }

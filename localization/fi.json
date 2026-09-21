@@ -7,6 +7,16 @@
         "reason": "Syy",
         "requestDate": "Pyyntöpäivä",
         "return": "Palautus toimittajalle",
-        "returns": "Palautukset toimittajille"
+        "returns": "Palautukset toimittajille",
+        "supplierReturn": "Palautus toimittajalle",
+        "supplierReturnItem": "Palautus toimittajalle – Kohde",
+        "supplierReturnItems": "Palautetut tuotteet",
+        "supplierReturnReason": "Syy",
+        "supplierReturnReasons": "Syy",
+        "supplierReturnSettlement": "Palautus toimittajalle – Selvitys",
+        "supplierReturnSettlements": "Palautukset toimittajille – Selvitykset",
+        "supplierReturnShipment": "Palautus toimittajalle – Toimitus",
+        "supplierReturnShipments": "Palautukset toimittajille – Toimitukset",
+        "supplierReturns": "Palautukset toimittajille"
     }
 }

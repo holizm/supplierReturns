@@ -7,6 +7,16 @@
         "reason": "وجہ",
         "requestDate": "درخواست کی تاریخ",
         "return": "سپلائر کو واپسی",
-        "returns": "سپلائر کو واپسی"
+        "returns": "سپلائر کو واپسی",
+        "supplierReturn": "سپلائر کو واپسی",
+        "supplierReturnItem": "سپلائر کو واپسی – آئٹم",
+        "supplierReturnItems": "واپس کی گئی اشیا",
+        "supplierReturnReason": "وجہ",
+        "supplierReturnReasons": "وجہ",
+        "supplierReturnSettlement": "سپلائر کو واپسی – تصفیہ",
+        "supplierReturnSettlements": "سپلائر کو واپسی – تصفیے",
+        "supplierReturnShipment": "سپلائر کو واپسی – کھیپ",
+        "supplierReturnShipments": "سپلائر کو واپسی – کھیپیں",
+        "supplierReturns": "سپلائر کو واپسی"
     }
 }

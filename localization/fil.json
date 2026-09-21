@@ -7,6 +7,16 @@
         "reason": "Dahilan",
         "requestDate": "Petsa ng kahilingan",
         "return": "Pagbabalik sa supplier",
-        "returns": "Mga balik sa supplier"
+        "returns": "Mga balik sa supplier",
+        "supplierReturn": "Pagbabalik sa supplier",
+        "supplierReturnItem": "Pagbabalik sa supplier – Item",
+        "supplierReturnItems": "Mga ibinalik na item",
+        "supplierReturnReason": "Dahilan",
+        "supplierReturnReasons": "Dahilan",
+        "supplierReturnSettlement": "Pagbabalik sa supplier – Kasunduan",
+        "supplierReturnSettlements": "Mga balik sa supplier – Mga kasunduan",
+        "supplierReturnShipment": "Pagbabalik sa supplier – Pagpapadala",
+        "supplierReturnShipments": "Mga balik sa supplier – Mga pagpapadala",
+        "supplierReturns": "Mga balik sa supplier"
     }
 }

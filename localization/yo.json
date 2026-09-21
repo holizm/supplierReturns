@@ -7,6 +7,16 @@
         "reason": "Ìdí",
         "requestDate": "Ọjọ́ ìbéèrè",
         "return": "Ìpadà sí olùpèsè",
-        "returns": "Àwọn ìpadà sí olùpèsè"
+        "returns": "Àwọn ìpadà sí olùpèsè",
+        "supplierReturn": "Ìpadà sí olùpèsè",
+        "supplierReturnItem": "Ìpadà sí olùpèsè – Ohun",
+        "supplierReturnItems": "Àwọn ohun tí a dá padà",
+        "supplierReturnReason": "Ìdí",
+        "supplierReturnReasons": "Ìdí",
+        "supplierReturnSettlement": "Ìpadà sí olùpèsè – Ìpinnu",
+        "supplierReturnSettlements": "Àwọn ìpadà sí olùpèsè – Àwọn ìpinnu",
+        "supplierReturnShipment": "Ìpadà sí olùpèsè – Gbigbe ẹrù",
+        "supplierReturnShipments": "Àwọn ìpadà sí olùpèsè – Àwọn gbigbe ẹrù",
+        "supplierReturns": "Àwọn ìpadà sí olùpèsè"
     }
 }

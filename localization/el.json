@@ -7,6 +7,16 @@
         "reason": "Αιτία",
         "requestDate": "Ημερομηνία αιτήματος",
         "return": "Επιστροφή σε προμηθευτή",
-        "returns": "Επιστροφές σε προμηθευτές"
+        "returns": "Επιστροφές σε προμηθευτές",
+        "supplierReturn": "Επιστροφή σε προμηθευτή",
+        "supplierReturnItem": "Επιστροφή σε προμηθευτή – Στοιχείο",
+        "supplierReturnItems": "Επιστρεφόμενα είδη",
+        "supplierReturnReason": "Αιτία",
+        "supplierReturnReasons": "Αιτία",
+        "supplierReturnSettlement": "Επιστροφή σε προμηθευτή – Διακανονισμός",
+        "supplierReturnSettlements": "Επιστροφές σε προμηθευτές – Διακανονισμοί",
+        "supplierReturnShipment": "Επιστροφή σε προμηθευτή – Αποστολή",
+        "supplierReturnShipments": "Επιστροφές σε προμηθευτές – Αποστολές",
+        "supplierReturns": "Επιστροφές σε προμηθευτές"
     }
 }

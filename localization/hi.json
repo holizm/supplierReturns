@@ -7,6 +7,16 @@
         "reason": "कारण",
         "requestDate": "अनुरोध की तारीख",
         "return": "आपूर्तिकर्ता को वापसी",
-        "returns": "आपूर्तिकर्ता को वापसी"
+        "returns": "आपूर्तिकर्ता को वापसी",
+        "supplierReturn": "आपूर्तिकर्ता को वापसी",
+        "supplierReturnItem": "आपूर्तिकर्ता को वापसी – आइटम",
+        "supplierReturnItems": "वापस की गई वस्तुएँ",
+        "supplierReturnReason": "कारण",
+        "supplierReturnReasons": "कारण",
+        "supplierReturnSettlement": "आपूर्तिकर्ता को वापसी – निपटान",
+        "supplierReturnSettlements": "आपूर्तिकर्ता को वापसी – निपटान",
+        "supplierReturnShipment": "आपूर्तिकर्ता को वापसी – लदान",
+        "supplierReturnShipments": "आपूर्तिकर्ता को वापसी – लदान",
+        "supplierReturns": "आपूर्तिकर्ता को वापसी"
     }
 }

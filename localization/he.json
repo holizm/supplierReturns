@@ -7,6 +7,16 @@
         "reason": "סיבה",
         "requestDate": "תאריך הבקשה",
         "return": "החזרה לספק",
-        "returns": "החזרות לספקים"
+        "returns": "החזרות לספקים",
+        "supplierReturn": "החזרה לספק",
+        "supplierReturnItem": "החזרה לספק – פריט",
+        "supplierReturnItems": "פריטים שהוחזרו",
+        "supplierReturnReason": "סיבה",
+        "supplierReturnReasons": "סיבה",
+        "supplierReturnSettlement": "החזרה לספק – הסדר",
+        "supplierReturnSettlements": "החזרות לספקים – הסדרים",
+        "supplierReturnShipment": "החזרה לספק – משלוח",
+        "supplierReturnShipments": "החזרות לספקים – משלוחים",
+        "supplierReturns": "החזרות לספקים"
     }
 }

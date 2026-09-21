@@ -7,6 +7,16 @@
         "reason": "Powód",
         "requestDate": "Data zgłoszenia",
         "return": "Zwrot do dostawcy",
-        "returns": "Zwroty do dostawców"
+        "returns": "Zwroty do dostawców",
+        "supplierReturn": "Zwrot do dostawcy",
+        "supplierReturnItem": "Zwrot do dostawcy – Element",
+        "supplierReturnItems": "Zwrócone pozycje",
+        "supplierReturnReason": "Powód",
+        "supplierReturnReasons": "Powód",
+        "supplierReturnSettlement": "Zwrot do dostawcy – Rozliczenie",
+        "supplierReturnSettlements": "Zwroty do dostawców – Rozliczenia",
+        "supplierReturnShipment": "Zwrot do dostawcy – Wysyłka",
+        "supplierReturnShipments": "Zwroty do dostawców – Wysyłki",
+        "supplierReturns": "Zwroty do dostawców"
     }
 }

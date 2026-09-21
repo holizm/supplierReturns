@@ -7,6 +7,16 @@
         "reason": "Dalili",
         "requestDate": "Ranar buƙata",
         "return": "Mayarwa ga mai kaya",
-        "returns": "Mayarwa ga masu kaya"
+        "returns": "Mayarwa ga masu kaya",
+        "supplierReturn": "Mayarwa ga mai kaya",
+        "supplierReturnItem": "Mayarwa ga mai kaya – Abu",
+        "supplierReturnItems": "Kayayyakin da aka mayar",
+        "supplierReturnReason": "Dalili",
+        "supplierReturnReasons": "Dalili",
+        "supplierReturnSettlement": "Mayarwa ga mai kaya – Sasantawa",
+        "supplierReturnSettlements": "Mayarwa ga masu kaya – Sasantawa",
+        "supplierReturnShipment": "Mayarwa ga mai kaya – Jigilar kaya",
+        "supplierReturnShipments": "Mayarwa ga masu kaya – Jigilar kaya",
+        "supplierReturns": "Mayarwa ga masu kaya"
     }
 }

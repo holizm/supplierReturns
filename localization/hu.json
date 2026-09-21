@@ -7,6 +7,16 @@
         "reason": "Ok",
         "requestDate": "Kérelem dátuma",
         "return": "Visszáru beszállítónak",
-        "returns": "Visszáruk beszállítóknak"
+        "returns": "Visszáruk beszállítóknak",
+        "supplierReturn": "Visszáru beszállítónak",
+        "supplierReturnItem": "Visszáru beszállítónak – Elem",
+        "supplierReturnItems": "Visszaküldött tételek",
+        "supplierReturnReason": "Ok",
+        "supplierReturnReasons": "Ok",
+        "supplierReturnSettlement": "Visszáru beszállítónak – Elszámolás",
+        "supplierReturnSettlements": "Visszáruk beszállítóknak – Elszámolások",
+        "supplierReturnShipment": "Visszáru beszállítónak – Szállítás",
+        "supplierReturnShipments": "Visszáruk beszállítóknak – Szállítmányok",
+        "supplierReturns": "Visszáruk beszállítóknak"
     }
 }
