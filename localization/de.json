@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Lieferantenrücksendungen",
         "acceptedQuantity": "Akzeptierte Menge",
-        "condition": "Zustand",
         "items": "Zurückgesendete Artikel",
         "number": "Rücksendenummer",
         "purchaseOrder": "Bestellungen",
         "reason": "Grund",
         "requestDate": "Anfragedatum",
-        "return": "Lieferantenrücksendung"
+        "return": "Lieferantenrücksendung",
+        "returns": "Lieferantenrücksendungen"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "سپلائر کو واپسی",
         "acceptedQuantity": "منظور شدہ مقدار",
-        "condition": "حالت",
         "items": "واپس کی گئی اشیا",
         "number": "واپسی نمبر",
         "purchaseOrder": "خریداری کے آرڈرز",
         "reason": "وجہ",
         "requestDate": "درخواست کی تاریخ",
-        "return": "سپلائر کو واپسی"
+        "return": "سپلائر کو واپسی",
+        "returns": "سپلائر کو واپسی"
     }
 }

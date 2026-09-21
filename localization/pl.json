@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Zwroty do dostawców",
         "acceptedQuantity": "Zaakceptowana ilość",
-        "condition": "Stan",
         "items": "Zwrócone pozycje",
         "number": "Numer zwrotu",
         "purchaseOrder": "Zamówienia zakupu",
         "reason": "Powód",
         "requestDate": "Data zgłoszenia",
-        "return": "Zwrot do dostawcy"
+        "return": "Zwrot do dostawcy",
+        "returns": "Zwroty do dostawców"
     }
 }

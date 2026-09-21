@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Leverantörsreturer",
         "acceptedQuantity": "Godkänd kvantitet",
-        "condition": "Skick",
         "items": "Returnerade artiklar",
         "number": "Returnummer",
         "purchaseOrder": "Inköpsordrar",
         "reason": "Orsak",
         "requestDate": "Begäransdatum",
-        "return": "Leverantörsretur"
+        "return": "Leverantörsretur",
+        "returns": "Leverantörsreturer"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Leveranciersretouren",
         "acceptedQuantity": "Geaccepteerd aantal",
-        "condition": "Staat",
         "items": "Geretourneerde artikelen",
         "number": "Retournummer",
         "purchaseOrder": "Inkooporders",
         "reason": "Reden",
         "requestDate": "Aanvraagdatum",
-        "return": "Leveranciersretour"
+        "return": "Leveranciersretour",
+        "returns": "Leveranciersretouren"
     }
 }

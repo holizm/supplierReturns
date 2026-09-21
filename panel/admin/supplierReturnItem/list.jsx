@@ -6,7 +6,7 @@ const headers = <>
     <th>supplierReturnsItem</th>
     <th>supplierReturnsQuantity</th>
     <th>supplierReturnsAcceptedQuantity</th>
-    <th>supplierReturnsCondition</th>
+    <th>corePhysicalCondition</th>
 </>
 
 const row = item => <>

@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Marejesho kwa wasambazaji",
         "acceptedQuantity": "Kiasi kilichokubaliwa",
-        "condition": "Hali",
         "items": "Bidhaa zilizorejeshwa",
         "number": "Nambari ya marejesho",
         "purchaseOrder": "Maagizo ya ununuzi",
         "reason": "Sababu",
         "requestDate": "Tarehe ya ombi",
-        "return": "Marejesho kwa msambazaji"
+        "return": "Marejesho kwa msambazaji",
+        "returns": "Marejesho kwa wasambazaji"
     }
 }

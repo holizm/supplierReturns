@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Tedarikçiye iadeler",
         "acceptedQuantity": "Kabul edilen miktar",
-        "condition": "Durum",
         "items": "İade edilen ürünler",
         "number": "İade numarası",
         "purchaseOrder": "Satın alma siparişleri",
         "reason": "Neden",
         "requestDate": "Talep tarihi",
-        "return": "Tedarikçiye iade"
+        "return": "Tedarikçiye iade",
+        "returns": "Tedarikçiye iadeler"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "供應商退貨",
         "acceptedQuantity": "接受數量",
-        "condition": "商品狀況",
         "items": "退回的商品",
         "number": "退貨編號",
         "purchaseOrder": "採購訂單",
         "reason": "原因",
         "requestDate": "申請日期",
-        "return": "供應商退貨"
+        "return": "供應商退貨",
+        "returns": "供應商退貨"
     }
 }

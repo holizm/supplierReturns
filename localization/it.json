@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Resi ai fornitori",
         "acceptedQuantity": "Quantità accettata",
-        "condition": "Condizione",
         "items": "Articoli restituiti",
         "number": "Numero di reso",
         "purchaseOrder": "Ordini di acquisto",
         "reason": "Motivo",
         "requestDate": "Data della richiesta",
-        "return": "Reso al fornitore"
+        "return": "Reso al fornitore",
+        "returns": "Resi ai fornitori"
     }
 }

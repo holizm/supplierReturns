@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Retours aux fournisseurs",
         "acceptedQuantity": "Quantité acceptée",
-        "condition": "État",
         "items": "Articles retournés",
         "number": "Numéro de retour",
         "purchaseOrder": "Bons de commande",
         "reason": "Motif",
         "requestDate": "Date de la demande",
-        "return": "Retour fournisseur"
+        "return": "Retour fournisseur",
+        "returns": "Retours aux fournisseurs"
     }
 }

@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Visszáruk beszállítóknak",
         "acceptedQuantity": "Elfogadott mennyiség",
-        "condition": "Állapot",
         "items": "Visszaküldött tételek",
         "number": "Visszáru száma",
         "purchaseOrder": "Beszerzési rendelések",
         "reason": "Ok",
         "requestDate": "Kérelem dátuma",
-        "return": "Visszáru beszállítónak"
+        "return": "Visszáru beszállítónak",
+        "returns": "Visszáruk beszállítóknak"
     }
 }

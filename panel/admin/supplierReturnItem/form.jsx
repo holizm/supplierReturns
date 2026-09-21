@@ -22,7 +22,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='supplierReturnsCondition'
+        placeholder='corePhysicalCondition'
         property='condition'
     />
     <LongText

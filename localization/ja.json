@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "仕入先返品",
         "acceptedQuantity": "受入数量",
-        "condition": "状態",
         "items": "返品商品",
         "number": "返品番号",
         "purchaseOrder": "発注書",
         "reason": "理由",
         "requestDate": "申請日",
-        "return": "仕入先返品"
+        "return": "仕入先返品",
+        "returns": "仕入先返品"
     }
 }

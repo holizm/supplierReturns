@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Leverandørreturneringer",
         "acceptedQuantity": "Godkendt antal",
-        "condition": "Stand",
         "items": "Returnerede varer",
         "number": "Returnummer",
         "purchaseOrder": "Indkøbsordrer",
         "reason": "Årsag",
         "requestDate": "Anmodningsdato",
-        "return": "Leverandørreturnering"
+        "return": "Leverandørreturnering",
+        "returns": "Leverandørreturneringer"
     }
 }

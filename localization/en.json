@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "Supplier returns",
         "acceptedQuantity": "Accepted quantity",
-        "condition": "Condition",
         "items": "Returned items",
         "number": "Return number",
         "purchaseOrder": "Purchase order",
         "reason": "Return reason",
         "requestDate": "Request date",
-        "return": "Supplier return"
+        "return": "Supplier return",
+        "returns": "Supplier returns"
     }
 }

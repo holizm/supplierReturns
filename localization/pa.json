@@ -1,13 +1,12 @@
 {
     "common": {
-        "returns": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ",
         "acceptedQuantity": "ਮਨਜ਼ੂਰ ਮਾਤਰਾ",
-        "condition": "ਹਾਲਤ",
         "items": "ਵਾਪਸ ਕੀਤੀਆਂ ਆਈਟਮਾਂ",
         "number": "ਵਾਪਸੀ ਨੰਬਰ",
         "purchaseOrder": "ਖਰੀਦ ਆਰਡਰ",
         "reason": "ਕਾਰਨ",
         "requestDate": "ਬੇਨਤੀ ਦੀ ਮਿਤੀ",
-        "return": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ"
+        "return": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀ",
+        "returns": "ਸਪਲਾਇਰ ਨੂੰ ਵਾਪਸੀਆਂ"
     }
 }
