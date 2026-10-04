@@ -8,27 +8,22 @@ import {
 const inputs = <>
     <Text
         placeholder='return'
-        property='supplierReturn'
         required
+        supplierReturn
     />
     <Text
-        placeholder='item'
-        property='item'
+        item
         required
     />
     <Numeric
-        placeholder='quantity'
-        property='quantity'
+        quantity
         required
     />
     <Text
+        condition
         placeholder='physicalCondition'
-        property='condition'
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

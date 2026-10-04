@@ -7,33 +7,24 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='supplier'
-        property='supplier'
         required
+        supplier
     />
-    <Text
-        placeholder='purchaseOrder'
-        property='purchaseOrder'
-    />
+    <Text purchaseOrder />
     <DateTime
-        placeholder='requestDate'
-        property='requestDate'
+        requestDate
         required
     />
     <Text
         placeholder='reason'
-        property='supplierReturnReason'
         required
+        supplierReturnReason
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
