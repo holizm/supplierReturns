@@ -1,7 +1,7 @@
 export default <>
-    <th start>supplierReturnsNumber</th>
-    <th>supplierReturnsSupplier</th>
-    <th>supplierReturnsRequestDate</th>
-    <th>supplierReturnsReason</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>supplier</th>
+    <th>requestDate</th>
+    <th>reason</th>
+    <th>state</th>
 </>

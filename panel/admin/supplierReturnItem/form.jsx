@@ -7,26 +7,26 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='supplierReturnsReturn'
+        placeholder='return'
         property='supplierReturn'
         required
     />
     <Text
-        placeholder='supplierReturnsItem'
+        placeholder='item'
         property='item'
         required
     />
     <Numeric
-        placeholder='supplierReturnsQuantity'
+        placeholder='quantity'
         property='quantity'
         required
     />
     <Text
-        placeholder='corePhysicalCondition'
+        placeholder='physicalCondition'
         property='condition'
     />
     <LongText
-        placeholder='supplierReturnsDescription'
+        placeholder='description'
         property='description'
     />
 </>

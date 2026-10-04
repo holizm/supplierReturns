@@ -7,31 +7,31 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='supplierReturnsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='supplierReturnsSupplier'
+        placeholder='supplier'
         property='supplier'
         required
     />
     <Text
-        placeholder='supplierReturnsPurchaseOrder'
+        placeholder='purchaseOrder'
         property='purchaseOrder'
     />
     <DateTime
-        placeholder='supplierReturnsRequestDate'
+        placeholder='requestDate'
         property='requestDate'
         required
     />
     <Text
-        placeholder='supplierReturnsReason'
+        placeholder='reason'
         property='supplierReturnReason'
         required
     />
     <LongText
-        placeholder='supplierReturnsDescription'
+        placeholder='description'
         property='description'
     />
 </>

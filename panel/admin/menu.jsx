@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/supplierReturns/supplierReturn/list',
-                title: 'supplierReturnsReturns',
+                title: 'returns',
             },
             {
                 path: '/supplierReturns/supplierReturnItem/list',
-                title: 'supplierReturnsItems',
+                title: 'items',
             },
         ],
         icon: 'assignmentReturn',
         path: '/supplierReturns',
-        title: 'supplierReturnsSupplierReturns',
+        title: 'supplierReturns',
     },
 ]

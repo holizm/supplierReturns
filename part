@@ -13,6 +13,8 @@ supplierReturn
     state
     description optional
     unique number
+    uses
+        stateMachines
 supplierReturnItem
     supplierReturn
     item

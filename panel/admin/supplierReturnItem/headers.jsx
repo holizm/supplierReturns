@@ -1,7 +1,7 @@
 export default <>
-    <th start>supplierReturnsReturn</th>
-    <th>supplierReturnsItem</th>
-    <th>supplierReturnsQuantity</th>
-    <th>supplierReturnsAcceptedQuantity</th>
-    <th>corePhysicalCondition</th>
+    <th start>return</th>
+    <th>item</th>
+    <th>quantity</th>
+    <th>acceptedQuantity</th>
+    <th>physicalCondition</th>
 </>
