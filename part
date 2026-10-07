@@ -23,7 +23,7 @@ supplierReturnItem
     acceptedQuantity realNumber optional
     condition optional
     description optional
-supplierReturnShipment
+supplierReturnShipment searchable
     supplierReturn
     shipment
     shippedDate optional
