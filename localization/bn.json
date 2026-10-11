@@ -3,7 +3,7 @@
         "acceptedQuantity": "গৃহীত পরিমাণ",
         "items": "ফেরত দেওয়া পণ্য",
         "number": "ফেরত নম্বর",
-        "purchaseOrder": "ক্রয়াদেশ",
+        "purchaseOrder": "ক্রয় আদেশ",
         "reason": "কারণ",
         "requestDate": "অনুরোধের তারিখ",
         "return": "সরবরাহকারীর কাছে ফেরত",
@@ -12,10 +12,10 @@
         "supplierReturnItem": "সরবরাহকারীর কাছে ফেরত – আইটেম",
         "supplierReturnItems": "ফেরত দেওয়া পণ্য",
         "supplierReturnReason": "কারণ",
-        "supplierReturnReasons": "কারণ",
+        "supplierReturnReasons": "ফেরতের কারণসমূহ",
         "supplierReturnSettlement": "সরবরাহকারীর কাছে ফেরত – নিষ্পত্তি",
         "supplierReturnSettlements": "সরবরাহকারীর কাছে ফেরত – নিষ্পত্তিসমূহ",
-        "supplierReturnShipment": "সরবরাহকারীর কাছে ফেরত – জাহাজে প্রেরিত কাজ",
+        "supplierReturnShipment": "সরবরাহকারীর কাছে ফেরত – চালান",
         "supplierReturnShipments": "সরবরাহকারীর কাছে ফেরত – চালানসমূহ",
         "supplierReturns": "সরবরাহকারীর কাছে ফেরত"
     }
