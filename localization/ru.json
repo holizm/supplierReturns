@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Принятое количество",
         "items": "Возвращённые товары",
         "number": "Номер возврата",
-        "purchaseOrder": "Заказ на закупку",
         "reason": "Причина",
         "requestDate": "Дата запроса",
         "return": "Возврат поставщику",

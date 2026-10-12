@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "الكمية المقبولة",
         "items": "الأصناف المرتجعة",
         "number": "رقم المرتجع",
-        "purchaseOrder": "أمر شراء",
         "reason": "السبب",
         "requestDate": "تاريخ الطلب",
         "return": "مرتجع المورد",

@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Quantità accettata",
         "items": "Articoli restituiti",
         "number": "Numero di reso",
-        "purchaseOrder": "Ordine di acquisto",
         "reason": "Motivo",
         "requestDate": "Data della richiesta",
         "return": "Reso al fornitore",

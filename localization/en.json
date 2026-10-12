@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Accepted quantity",
         "items": "Returned items",
         "number": "Return number",
-        "purchaseOrder": "Purchase order",
         "reason": "Return reason",
         "requestDate": "Request date",
         "return": "Supplier return",

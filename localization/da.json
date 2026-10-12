@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Godkendt antal",
         "items": "Returnerede varer",
         "number": "Returnummer",
-        "purchaseOrder": "Indkøbsordre",
         "reason": "Årsag",
         "requestDate": "Anmodningsdato",
         "return": "Leverandørreturnering",

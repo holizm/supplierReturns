@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Kabul edilen miktar",
         "items": "İade edilen ürünler",
         "number": "İade numarası",
-        "purchaseOrder": "Satın alma siparişi",
         "reason": "Neden",
         "requestDate": "Talep tarihi",
         "return": "Tedarikçiye iade",

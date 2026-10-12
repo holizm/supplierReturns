@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Cantitate acceptată",
         "items": "Articole returnate",
         "number": "Număr de retur",
-        "purchaseOrder": "Comandă de achiziție",
         "reason": "Motiv",
         "requestDate": "Data solicitării",
         "return": "Retur către furnizor",

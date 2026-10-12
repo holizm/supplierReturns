@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Прихваћена количина",
         "items": "Враћене ставке",
         "number": "Број поврата",
-        "purchaseOrder": "Наруџбеница",
         "reason": "Разлог",
         "requestDate": "Датум захтева",
         "return": "Поврат добављачу",

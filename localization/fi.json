@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Hyväksytty määrä",
         "items": "Palautetut tuotteet",
         "number": "Palautusnumero",
-        "purchaseOrder": "Ostotilaus",
         "reason": "Syy",
         "requestDate": "Pyyntöpäivä",
         "return": "Palautus toimittajalle",

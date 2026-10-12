@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Tinanggap na dami",
         "items": "Mga ibinalik na item",
         "number": "Numero ng pagbabalik",
-        "purchaseOrder": "Order sa pagbili",
         "reason": "Dahilan",
         "requestDate": "Petsa ng kahilingan",
         "return": "Pagbabalik sa supplier",

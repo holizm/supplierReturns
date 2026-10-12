@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Geaccepteerd aantal",
         "items": "Geretourneerde artikelen",
         "number": "Retournummer",
-        "purchaseOrder": "Inkooporder",
         "reason": "Reden",
         "requestDate": "Aanvraagdatum",
         "return": "Leveranciersretour",

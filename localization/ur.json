@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "منظور شدہ مقدار",
         "items": "واپس کی گئی اشیا",
         "number": "واپسی نمبر",
-        "purchaseOrder": "خریداری آرڈر",
         "reason": "وجہ",
         "requestDate": "درخواست کی تاریخ",
         "return": "سپلائر کو واپسی",

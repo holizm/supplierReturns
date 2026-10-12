@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Quantidade aceita",
         "items": "Itens devolvidos",
         "number": "Número da devolução",
-        "purchaseOrder": "Ordem de compra",
         "reason": "Motivo",
         "requestDate": "Data da solicitação",
         "return": "Devolução a fornecedor",

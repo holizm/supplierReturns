@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Kiasi kilichokubaliwa",
         "items": "Bidhaa zilizorejeshwa",
         "number": "Nambari ya marejesho",
-        "purchaseOrder": "Agizo la ununuzi",
         "reason": "Sababu",
         "requestDate": "Tarehe ya ombi",
         "return": "Marejesho kwa msambazaji",

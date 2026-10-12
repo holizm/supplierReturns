@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Jumlah diterima",
         "items": "Barang yang diretur",
         "number": "Nomor retur",
-        "purchaseOrder": "Pesanan pembelian",
         "reason": "Alasan",
         "requestDate": "Tanggal permintaan",
         "return": "Retur pemasok",

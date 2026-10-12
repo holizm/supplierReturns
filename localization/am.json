@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "ተቀባይነት ያገኘ መጠን",
         "items": "የተመለሱ ዕቃዎች",
         "number": "የመመለሻ ቁጥር",
-        "purchaseOrder": "የግዢ ትዕዛዝ",
         "reason": "ምክንያት",
         "requestDate": "የጥያቄ ቀን",
         "return": "ወደ አቅራቢ መመለሻ",

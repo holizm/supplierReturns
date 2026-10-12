@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "গৃহীত পরিমাণ",
         "items": "ফেরত দেওয়া পণ্য",
         "number": "ফেরত নম্বর",
-        "purchaseOrder": "ক্রয় আদেশ",
         "reason": "কারণ",
         "requestDate": "অনুরোধের তারিখ",
         "return": "সরবরাহকারীর কাছে ফেরত",

@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "സ്വീകരിച്ച അളവ്",
         "items": "മടക്കിയ ഇനങ്ങൾ",
         "number": "മടക്ക നമ്പർ",
-        "purchaseOrder": "വാങ്ങൽ ഓർഡർ",
         "reason": "കാരണം",
         "requestDate": "അഭ്യർത്ഥന തീയതി",
         "return": "വിതരണക്കാരനുള്ള മടക്കം",

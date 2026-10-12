@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "受入数量",
         "items": "返品商品",
         "number": "返品番号",
-        "purchaseOrder": "発注書",
         "reason": "理由",
         "requestDate": "申請日",
         "return": "仕入先返品",

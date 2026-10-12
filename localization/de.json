@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Akzeptierte Menge",
         "items": "Zurückgesendete Artikel",
         "number": "Rücksendenummer",
-        "purchaseOrder": "Bestellung",
         "reason": "Grund",
         "requestDate": "Anfragedatum",
         "return": "Lieferantenrücksendung",

@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Zaakceptowana ilość",
         "items": "Zwrócone pozycje",
         "number": "Numer zwrotu",
-        "purchaseOrder": "Zamówienie zakupu",
         "reason": "Powód",
         "requestDate": "Data zgłoszenia",
         "return": "Zwrot do dostawcy",

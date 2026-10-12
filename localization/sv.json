@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "Godkänd kvantitet",
         "items": "Returnerade artiklar",
         "number": "Returnummer",
-        "purchaseOrder": "Inköpsorder",
         "reason": "Orsak",
         "requestDate": "Begäransdatum",
         "return": "Leverantörsretur",

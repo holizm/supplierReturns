@@ -1,9 +1,7 @@
 {
     "common": {
-        "acceptedQuantity": "כמות שאושרה",
         "items": "פריטים שהוחזרו",
         "number": "מספר החזרה",
-        "purchaseOrder": "הזמנת רכש",
         "reason": "סיבה",
         "requestDate": "תאריך הבקשה",
         "return": "החזרה לספק",
